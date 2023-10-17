@@ -1,0 +1,16 @@
+{
+  "name": "msw-jsdom-abort-controller-reproduction",
+  "private": true,
+  "version": "0.0.0",
+  "type": "module",
+  "scripts": {
+    "test": "vitest --config ./vitest.config"
+  },
+  "devDependencies": {
+    "jsdom": "22.1.0",
+    "msw": "0.0.0-fetch.rc-23",
+    "typescript": "^5.0.2",
+    "vite": "^4.4.5",
+    "vitest": "0.34.6"
+  }
+}
